@@ -2,8 +2,6 @@
 
 A content aggregation platform for AI research news, papers, and updates from major labs and institutions. 
 
-*initial rendering may take ~ 2 mins*
-
 **Live Demo:** [https://ai-now.vercel.app](https://ai-now.vercel.app)
 
 ## Overview
